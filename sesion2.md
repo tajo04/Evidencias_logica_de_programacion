@@ -30,10 +30,11 @@ El proceso de instalación de los entornos de desarrollo para Java, NetBeans IDE
 
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
 
+
 1. Programa para calcular la hipotenusa de un triángulo rectángulo:
-import java.util.Scanner;
 
 ```java
+
 import java.util.Scanner;
 
 public class HipotenusaTriangulo {
@@ -54,9 +55,13 @@ public class HipotenusaTriangulo {
 }
 ```
 
+
 2. Programa para determinar si un número es par o impar:
-import java.util.Scanner;
+
 ```java
+
+import java.util.Scanner;
+
 public class ParImpar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -74,8 +79,11 @@ public class ParImpar {
     }
 }
 ```
+
 3. Programa para calcular el tercer ángulo de un triángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -99,8 +107,11 @@ public class TercerAnguloTriangulo {
     }
 }
 ```
+
 4. Programa para calcular el promedio de tres números:
+
 ```java
+
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -123,8 +134,11 @@ public class PromedioTresNumeros {
     }
 }
 ```
+
 5. Programa para calcular la longitud de una cadena de texto:
+
 ```java
+
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -141,8 +155,11 @@ public class LongitudCadena {
     }
 }
 ```
+
 6. Programa para calcular el área de un triángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class AreaTriangulo {
@@ -162,8 +179,11 @@ public class AreaTriangulo {
     }
 }
 ```
+
 7. Programa para calcular la raíz cuadrada de un número:
+
 ```java
+
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -180,11 +200,14 @@ public class RaizCuadrada {
     }
 }
 ```
+
 8. Programa para calcular el máximo común divisor (MCD) de dos números:
+
 ```java
+
 import java.util.Scanner;
 
-publicclass MaximoComunDivisor {
+public class MaximoComunDivisor {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -210,8 +233,11 @@ publicclass MaximoComunDivisor {
     }
 }
 ```
+
 9. Programa para imprimir una cadena de texto en orden inverso:
+
 ```java
+
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -232,8 +258,11 @@ public class CadenaInversa {
     }
 }
 ```
+
 10. Programa para calcular el área de un rectángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class AreaRectangulo {

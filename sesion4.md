@@ -45,6 +45,7 @@ int semestre = 2;
 ## Solucion:
 
 ```java
+
 public class Cl4 {
 
     public static void main(String[] args) {

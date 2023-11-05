@@ -31,7 +31,9 @@
 
 ### Ejercicios - while
 1. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Cl5 {
@@ -51,8 +53,11 @@ public class Cl5 {
     }
 }
 ```
+
 2. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Cl5 {
@@ -82,7 +87,9 @@ public class Cl5 {
 ### Ejercicios - do while
 
 1. 
+
 ```java 
+
 import java.util.Scanner;
 
 public class Cl5 {
@@ -105,8 +112,11 @@ public class Cl5 {
     }
 }
 ```
+
 2. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Cl5 {
@@ -134,7 +144,9 @@ public class Cl5 {
 ```
 ### Ejercicios - for
 1. 
+
 ```java
+
 public class NumerosImpares {
     public static void main(String[] args) {
         System.out.println("Números impares del 1 al 50:");

@@ -27,8 +27,10 @@
 # Solucion:
 
 1. 
+
 ```java
- import java.util.Scanner;
+
+import java.util.Scanner;
 
 public class Ac1 {
     public static void main(String[] args) {
@@ -51,7 +53,9 @@ public class Ac1 {
 }
 ```
 2. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Ac2 {
@@ -79,8 +83,11 @@ public class Ac2 {
     }
 }
 ```
-3. 
- ```java
+
+1. 
+
+```java
+
 import java.util.Scanner;
 
 public class Ac3 {
@@ -114,8 +121,11 @@ public class Ac3 {
 }
 
 ```
+
 4. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Ac4 {
@@ -147,8 +157,11 @@ public class Ac4 {
     }
 }
 ```
+
 5. 
+
 ```java
+
 public class Ac5 {
     public static void main(String[] args) {
 
@@ -161,8 +174,11 @@ public class Ac5 {
     }
 }
 ```
+
 6. 
+
 ```java
+
 public class Ac6 {
     public static void main(String[] args) {
 
@@ -174,8 +190,11 @@ public class Ac6 {
     }
 }
 ```
+
 7. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Ac7 {
@@ -202,8 +221,11 @@ public class Ac7 {
     }
 }
 ```
+
 8. 
+
 ```java
+
 import java.util.Scanner;
 
 public class Ac8 {
