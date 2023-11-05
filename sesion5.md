@@ -158,7 +158,9 @@ public class NumerosImpares {
 }
 ```
 2. 
+
 ```java
+
 public class NumerosPrimosSinClases {
     public static void main(String[] args) {
         System.out.println("Números primos del 1 al 100:");
@@ -184,5 +186,4 @@ public class NumerosPrimosSinClases {
         return true;
     }
 }
-
 ```
